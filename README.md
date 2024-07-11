@@ -5,7 +5,7 @@ I already have a similar volunteer project where I teach computer programming ta
 We will learn from scratch using the program language Kotlin ([https://kotlinlang.org/](https://kotlinlang.org/)) and no previous knowloadge is required (just the basic four math operations). We will cover everythink that is required to make a Junior Computer Programming.
 I will do my best to make the classes as easy is possible, however you need to do you part as well. You can´t act like someone that is going to a gym and just sitting and looking around. You need to put the effort to get any benefit.
 
-All classes will be a life youtube streaming so you can participate is make questions. I will try to record all classes at the same days and time to make easier for you to schedule for it, however it is not that important to join the live classes. I am doing that way just to force me to focus and to mimic a in person class experience (it does work better for me as I was professor for decades).
+All classes will be a live youtube streaming so you can participate and make questions. I will try to have all classes at the same days and time to make easier for you to schedule for it, however it is not that important to join the live classes. I am doing that way just to force me to focus and to mimic a in person class experience (it does work better for me as I was professor for decades).
 
 The link to the braziian content repository are below:
 - [Github Respository](https://github.com/airamez/IntroToCode_CSharp01)
@@ -14,8 +14,11 @@ The link to the braziian content repository are below:
 - Another difference is that the poertugues course uses C# ad programming language.
 
 This repository will be used to store the English version of the course. Below are the url for this course content:
-- [www.codelearn.life](www.codelearn.life) // This is a URL to this repository, just easier to share
+- [http://codelearn.live](http://codelearn.live) // This is a URL to this repository, just easier to share
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBQmBWUPdMJTToAiEeDI5MznGuM5D-kvK)
+
+Schedule:
+- Tuesdays and Thursays at 7PM
 
 # About the author
 José Santos (better known as Zé Maria) is a software engineer and veteran professor who started in the world of computing in his teens and before the advent of the internet. He had a distinguished career by working in academia as a professor at the Federal Technical School of Sergipe, Tiradentes University, FANESE, and the Federal University of Sergipe. He worked as an IT consultant, programmer, network administrator, systems analyst, and technical leader in Brazil, Canada, and currently in the United States, working in large companies, most recently at Microsoft and currently at Intuit. He was very active as an athlete and won several titles in different sports, including: swimming, volleyball, tae-kwo-do, and full-contact.
@@ -138,6 +141,16 @@ In addition to being a nerd, he was a competent athlete in different sports.
     * Remove (Pop)
     * Heap as array
   * Graphs
+    * Definition
+    * Components
+    * Types
+    * Basic Operation
+    * Find Connection
+      * Depth First Search (DFS)
+      * Breadth First Search (BFS)
+    * Find Path
+      * Depth First Search (DFS)
+      * Breadth First Search (BFS)
 * Big O Notation
 * Binary Search
 * Sorting
