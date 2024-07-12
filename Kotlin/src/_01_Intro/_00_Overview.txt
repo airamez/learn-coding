@@ -1,0 +1,29 @@
+Overview:
+ - Empower every person to be able to code
+ - Material prepared on the go
+ - Light Material focused of demonstration and practices
+ - Aiming to be a live book
+ - Not just a Kotlin course. Concepts can be applied to any language
+ - Software Engineering basic concepts overviews
+ - Some tips about the area, interviewing and best practices
+ - Focused on fundamentals and essential concepts
+ - Skip some complex and not so common features
+ - Not easy, but I will simplify as much as possible
+ - Need to focus, review and practices
+ - Lots of practices, exercises and homeworks
+ - Analogy with a gym :)
+
+Kotlin URLs:
+- Homepage:                 https://kotlinlang.org/
+- Documentation:            https://kotlinlang.org/docs/home.html
+- Language Reference:       https://kotlinlang.org/docs/keyword-reference.html
+- Language Specification:   https://kotlinlang.org/spec/introduction.html
+- Tour:                     https://kotlinlang.org/docs/kotlin-tour-welcome.html
+- API:                      https://kotlinlang.org/api/latest/jvm/stdlib/
+- Community:                https://kotlinlang.org/community/
+- Introduction videos:      https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw
+Book:
+- Kotlin in Action, Second Edition:
+    by Sebastian Aigner
+    Publisher(s): Manning
+    ISBN: 978-1617299605
