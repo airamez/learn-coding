@@ -27,3 +27,7 @@ Book:
     by Sebastian Aigner
     Publisher(s): Manning
     ISBN: 978-1617299605
+
+IDE - Integrated Development Environment
+  * Visual Studio Code: https://code.visualstudio.com/
+  * IntelliJ: https://www.jetbrains.com/idea/

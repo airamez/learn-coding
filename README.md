@@ -7,18 +7,19 @@ I will do my best to make the classes as easy is possible, however you need to d
 
 All classes will be a live youtube streaming so you can participate and make questions. I will try to have all classes at the same days and time to make easier for you to schedule for it, however it is not that important to join the live classes. I am doing that way just to force me to focus and to mimic a in person class experience (it does work better for me as I was professor for decades).
 
-The link to the braziian content repository are below:
-- [Github Respository](https://github.com/airamez/IntroToCode_CSharp01)
-- [Youtube Playlist](http://www.codando.live)
-- This course material is all in English but in the live classes I speak in portuguese.
-- Another difference is that the poertugues course uses C# ad programming language.
-
 This repository will be used to store the English version of the course. Below are the url for this course content:
 - [http://codelearn.live](http://codelearn.live) // This is a URL to this repository, just easier to share
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBQmBWUPdMJTToAiEeDI5MznGuM5D-kvK)
 
+The information about the brazilian content are below (Just in case you have a brazilian friend):
+- [Github Repository](https://github.com/airamez/IntroToCode_CSharp01)
+- [Youtube Playlist](http://www.codando.live)
+- This course material is all in English but in the live classes I speak in portuguese.
+- Another difference is that the portuguese course uses C# ad programming language.
+
+
 Schedule:
-- Tuesdays and Thursays at 7PM
+- Tuesdays and Thursdays at 8PM
 
 # About the author
 José Santos (better known as Zé Maria) is a software engineer and veteran professor who started in the world of computing in his teens and before the advent of the internet. He had a distinguished career by working in academia as a professor at the Federal Technical School of Sergipe, Tiradentes University, FANESE, and the Federal University of Sergipe. He worked as an IT consultant, programmer, network administrator, systems analyst, and technical leader in Brazil, Canada, and currently in the United States, working in large companies, most recently at Microsoft and currently at Intuit. He was very active as an athlete and won several titles in different sports, including: swimming, volleyball, tae-kwo-do, and full-contact.
