@@ -22,6 +22,9 @@ Kotlin URLs:
 - API:                      https://kotlinlang.org/api/latest/jvm/stdlib/
 - Community:                https://kotlinlang.org/community/
 - Introduction videos:      https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw
+- Source code:              https://github.com/jetbrains/kotlin
+- Playground:               https://play.kotlinlang.org
+
 Book:
 - Kotlin in Action, Second Edition:
     by Sebastian Aigner

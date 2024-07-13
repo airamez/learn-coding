@@ -1,9 +1,9 @@
 Overview:
- - Part of: "Empower every person and every organization on the planet to achieve more". Microsoft
+ - Empower every person to be able to code
  - Material prepared on the go
  - Light Material focused of demonstration and practices
  - Aiming to be a live book
- - Not just a Kotlin Course
+ - Not just a Kotlin course. Concepts can be applied to any language
  - Software Engineering basic concepts overviews
  - Some tips about the area, interviewing and best practices
  - Focused on fundamentals and essential concepts
@@ -22,8 +22,15 @@ Kotlin URLs:
 - API:                      https://kotlinlang.org/api/latest/jvm/stdlib/
 - Community:                https://kotlinlang.org/community/
 - Introduction videos:      https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw
+- Source code:              https://github.com/jetbrains/kotlin
+- Playground:               https://play.kotlinlang.org
+
 Book:
 - Kotlin in Action, Second Edition:
     by Sebastian Aigner
     Publisher(s): Manning
     ISBN: 978-1617299605
+
+IDE - Integrated Development Environment
+  * Visual Studio Code: https://code.visualstudio.com/
+  * IntelliJ: https://www.jetbrains.com/idea/
