@@ -33,7 +33,7 @@ In addition to being a nerd, he was a competent athlete in different sports.
 * Application Layers
   * User Interface (UI) or Front-End
     * Console
-    * Windows
+    * Desktop
     * Mobile
     * Web
   * Server-Side
@@ -42,7 +42,7 @@ In addition to being a nerd, he was a competent athlete in different sports.
     * Input: Data
     * Processing
     * Output: Information
-* Algorithm
+* Algorithm x Program
 
 ## Introduction to Coding with "Kotlin"
 
