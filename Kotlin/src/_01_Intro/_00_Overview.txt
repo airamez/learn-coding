@@ -30,6 +30,7 @@ Book:
     by Sebastian Aigner
     Publisher(s): Manning
     ISBN: 978-1617299605
+* SHOW THE BOOK AND READ THE INITIAL STATEMENTS ABOUT KOTLIN
 
 IDE - Integrated Development Environment
   * Visual Studio Code: https://code.visualstudio.com/

@@ -214,3 +214,9 @@ In addition to being a nerd, he was a competent athlete in different sports.
   * React
 
 ## Web Services/API
+
+## Classes
+
+| Class # | Youtube Video                      | Files |
+| ------- |------------------------------------|-------|
+| 1 | commning soon (07/15/2024) 8pm PST | N/A |
